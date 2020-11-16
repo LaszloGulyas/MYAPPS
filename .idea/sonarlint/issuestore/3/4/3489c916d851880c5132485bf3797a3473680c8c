@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8Ó®„—İ.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ó®„—İ.
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á¯›8Ó®„—İ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(åœÃùÿÿÿÿ8Ó®„—İ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°Ê¢Ëıÿÿÿÿ8Ó®„—İ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ¿‰şøÿÿÿÿ8Ó®„—İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷ù„è8Ó®„—İ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…Æ‡”úÿÿÿÿ8Ó®„—İ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(œšÿÿÿÿÿ8Ó®„—İ.
