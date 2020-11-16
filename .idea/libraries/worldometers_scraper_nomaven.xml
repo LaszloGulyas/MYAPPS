@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="worldometers_scraper_nomaven">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/worldometers_scraper_nomaven/out/artifacts/worldometers_scraper_nomaven_jar/worldometers_scraper_nomaven.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

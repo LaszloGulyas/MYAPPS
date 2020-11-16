@@ -1,0 +1,21 @@
+
+0
+java:S1220""Move this file to a named package.
+|
+java:S1488U"aImmediately return this expression instead of assigning it to the temporary variable "pageAsXml".( üÏìüÿÿÿÿ
+W
+java:S1854"ARemove this useless assignment to local variable "instaScrapper".(¨¢èÆ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ç€ÀÑ
+V	java:S125$"<This block of commented-out lines of code should be removed.(É°üüÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¿Âü¨üÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(·ì¼
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ÚşÓÕ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ø€Éÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¤ª™ùÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Œ©åáüÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(“´ª¤şÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(Ÿó…âøÿÿÿÿ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(¬±·‰
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+H
+java:S1481"2Remove this unused "instaScrapper" local variable.(¨¢èÆ

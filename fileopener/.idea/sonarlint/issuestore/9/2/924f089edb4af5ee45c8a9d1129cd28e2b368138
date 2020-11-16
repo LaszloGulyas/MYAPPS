@@ -1,0 +1,12 @@
+
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ûš Ï8ÌŸ×ˆÓ.
+?
+java:S2386"Make this member "protected".(øðî¿ÿÿÿÿÿ8ÝëÂ‡Ó.
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ˆƒ™Ø
+0
+java:S1220""Move this file to a named package.
+@
+java:S1481U"+Remove this unused "lookup" local variable.(áè§
+O
+java:S1854U":Remove this useless assignment to local variable "lookup".(áè§
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(™â†¹8ÌŸ×ˆÓ.

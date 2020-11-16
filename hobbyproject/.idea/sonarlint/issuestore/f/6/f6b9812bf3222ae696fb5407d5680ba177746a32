@@ -1,0 +1,13 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ςΠο±
+7
+java:S1643"Use a StringBuilder instead.(Εφ–ώÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "export".(όφΉ–
+D
+java:S1121#".Extract the assignment out of this expression.(δω‚σ
+K
+java:S1854#"5Remove this useless assignment to local variable "s".(δω‚σ

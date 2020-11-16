@@ -1,0 +1,10 @@
+
+’
+java:S1319"wThe type of the "countryData" object should be an interface such as "List" rather than the implementation "LinkedList".(¾Ùéÿÿÿÿÿ
+’
+java:S1319J"wThe type of the "countryData" object should be an interface such as "List" rather than the implementation "LinkedList".(ÖÖçšüÿÿÿÿ
+_
+java:S2095L"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(‰’¤æ
+0
+java:S1220""Move this file to a named package.
+V	java:S125 "<This block of commented-out lines of code should be removed.(º±ƒ¥şÿÿÿÿ

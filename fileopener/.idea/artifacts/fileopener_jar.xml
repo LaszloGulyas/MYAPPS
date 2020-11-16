@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fileopener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fileopener_jar</output-path>
+    <root id="archive" name="fileopener.jar">
+      <element id="module-output" name="fileopener" />
+    </root>
+  </artifact>
+</component>

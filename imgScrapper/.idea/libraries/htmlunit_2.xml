@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="htmlunit_2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../!tools/htmlunit_2.44_packages" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../!tools/htmlunit_2.44_packages" recursive="false" />
+  </library>
+</component>

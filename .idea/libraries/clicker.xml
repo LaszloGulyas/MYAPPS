@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="clicker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wow_client_launcher_java/out/artifacts/clicker_jar/clicker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

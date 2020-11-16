@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fileopener">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fileopener/out/artifacts/fileopener_jar/fileopener.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
