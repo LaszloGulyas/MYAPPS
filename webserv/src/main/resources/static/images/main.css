@@ -1,0 +1,199 @@
+body {
+    background-color: #fafafa;
+    user-select: none;
+}
+
+label {
+    padding: 0.7vw 0 0 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.center {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.monospace {
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 2.5vw;
+}
+
+.button {
+    background-color: #78468a;
+    border: none;
+    border-radius: 0.35em;
+    color: white;
+    width: 10.5vw;
+    height: 3.5vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+    font-family: "DejaVu Sans", Courier, monospace;
+    font-size: 1.8vw;
+    font-weight: bold;
+    font-stretch: ultra-condensed;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button:after {
+    transition-duration: 0.3s;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button:hover {
+    background-color: #7c219c;
+    opacity: 75%;
+}
+
+.button:active {
+    background-color: white;
+    color: #78468a;
+    transition-duration: 0.3s;
+}
+
+.popupFrame {
+    position: absolute;
+    background-color: #ffffff;
+    border: 0.01vw solid #fafafa;
+    border-radius: 0.5vw;
+    outline-color: #7c219c;
+    width: 50vw;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 0.3s ease-in;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.popupHeader {
+    font-family: "Dubai", Courier, monospace;
+    font-size: 2.5vw;
+    padding-left: 1vw;
+    color: #7c219c;
+}
+
+.closeButton {
+    position: absolute;
+    right: 32px;
+    top: 32px;
+    width: 32px;
+    height: 32px;
+    opacity: 0.3;
+}
+
+.closeButton:hover {
+    opacity: 1;
+}
+
+.closeButton:before, .closeButton:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: #333;
+}
+
+.closeButton:before {
+    transform: rotate(45deg);
+}
+
+.closeButton:after {
+    transform: rotate(-45deg);
+}
+
+.col-25 {
+    float: left;
+    width: 10vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+    font-family: "Dubai", Courier, monospace;
+    font-size: 2vmin;
+    color: #757575;
+    font-weight: bold;
+
+}
+
+.col-75 {
+    float: right;
+    width: 30vw;
+    height: auto;
+    margin-top: 2vw;
+    margin-right: 4vw;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #78468a;
+    display: grid;
+    color: white;
+    width: 10vw;
+    height: 3.5vw;
+    border: none;
+    border-radius: 1vw;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3vw;
+    margin-top: 2vw;
+    text-align: center;
+    text-decoration: none;
+    font-family: "DejaVu Sans", Courier, monospace;
+    font-size: 1.8vw;
+    font-weight: bold;
+    font-stretch: ultra-condensed;
+}
+
+input[type=submit]:hover {
+    background-color: #7c219c;
+    opacity: 75%;
+}
+
+/*Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 40vw;
+        margin-top: 3vw;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

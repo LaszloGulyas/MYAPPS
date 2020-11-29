@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="main.css"/>
+</head>
+<body>
+<div class="center">
+    <img class="center" style="width: 30%;" src=images/main_icon_musiclogo.png alt="icon">
+    <p class="monospace center">Tell us something about your musical taste</p>
+    <input type="checkbox" id="click" onclick="popupActivator()" hidden="hidden">
+    <label for="click" class="button">Fill form</label>
+</div>
+
+<div id="popup" style="opacity: 0; visibility: hidden; transition: 0.3s ease-in;" class="popupFrame">
+    <h2 class="popupHeader">What do you like?</h2>
+    <label for="click" class="closeButton"></label>
+
+    <form action=index.html>
+        <div class="row">
+            <div class="col-25">
+                <label for="fname">Your name</label>
+            </div>
+            <div class="col-75">
+                <input type="text" id="fname" name="fullname" placeholder="Your name..">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="genre">Favorite genre</label>
+            </div>
+            <div class="col-75">
+                <select id="genre" name="genre">
+                    <option style="display: none" disabled selected value>Select genre...</option>
+                    <option value="rock">Rock</option>
+                    <option value="rap">Rap</option>
+                    <option value="pop">Pop</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="favsong">Favorite song</label>
+            </div>
+            <div class="col-75">
+                <input type="text" id="favsong" name="favsong" placeholder="Your favorite song...">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="subject">Subject</label>
+            </div>
+            <div class="col-75">
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+            </div>
+        </div>
+        <div class="row">
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+</div>
+
+
+<script>
+    function popupActivator() {
+        const checkBox = document.getElementById("click");
+        const popupDiv = document.getElementById("popup");
+        if (checkBox.checked === true) {
+            popupDiv.style.visibility = "visible";
+            popupDiv.style.opacity = "0.97";
+        } else {
+            popupDiv.style.visibility = "hidden";
+            popupDiv.style.opacity = "0";
+        }
+    }
+</script>
+
+</body>
+</html>

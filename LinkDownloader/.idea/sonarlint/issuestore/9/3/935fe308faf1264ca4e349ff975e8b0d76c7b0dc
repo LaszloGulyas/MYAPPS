@@ -1,0 +1,19 @@
+
+„
+java:S4087""bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(İ˜úåùÿÿÿÿ8Øµòùß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û•¥ù8ú‚Œúß.
+L
+java:S1172*"/Remove this unused method parameter "fullLink".(ˆâ€µ8¼ÿùß.
+‚
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "fileName".(¨è™ûÿÿÿÿ8İˆ€úß.
+X	java:S125+"<This block of commented-out lines of code should be removed.(õÆõ¾8¼ÿùß.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ıÆşÿÿÿÿ8ıü”úß.
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8™­†úß.
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¬Ü’éşÿÿÿÿ8İˆ€úß.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ºŸãşÿÿÿÿ8‡´Îùß.
+>
+java:S1116"Remove this empty statement.(ıˆäıÿÿÿÿ8üÑ”úß.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(şñÃ³úÿÿÿÿ8°ÛÏùß.
