@@ -1,23 +1,21 @@
 
-^
-java:S1854"ARemove this useless assignment to local variable "instaScrapper".(¨¢èÆ8ü€ƒ“Ó.
-]	java:S125="<This block of commented-out lines of code should be removed.(¿Âü¨üÿÿÿÿ8·¹Ò’Ó.
-X	java:S125"<This block of commented-out lines of code should be removed.(Ç€ÀÑ8ü€ƒ“Ó.
-U	java:S106A"9Replace this use of System.out or System.err by a logger.(·ì¼8«™¸ÜÓ.
-Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¤ª™ùÿÿÿÿ8ä§È”Ó.
-]	java:S125K"<This block of commented-out lines of code should be removed.(Ÿó…âøÿÿÿÿ8Ã¨÷“Ó.
 Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Œ©åáüÿÿÿÿ8¶´¯”Ó.
-]	java:S125$"<This block of commented-out lines of code should be removed.(É°üüÿÿÿÿ8þÛôÓ.
-0
-java:S1220""Move this file to a named package.
 ƒ
 java:S1488U"aImmediately return this expression instead of assigning it to the temporary variable "pageAsXml".( üÏìüÿÿÿÿ8¬¾Ô“Ó.
-Z	java:S106X"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8¬¾Ô“Ó.
 U	java:S106B"9Replace this use of System.out or System.err by a logger.(ÚþÓÕ8ÍÈ´”Ó.
-X	java:S125O"<This block of commented-out lines of code should be removed.(¬±·‰8¼Þó“Ó.
-Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Ø€Éÿÿÿÿÿ8´ÔÇ”Ó.
-]	java:S125H"<This block of commented-out lines of code should be removed.(“´ª¤þÿÿÿÿ8±­’”Ó.
+]	java:S125$"<This block of commented-out lines of code should be removed.(É°üüÿÿÿÿ8þÛôÓ.
+]	java:S125="<This block of commented-out lines of code should be removed.(¿Âü¨üÿÿÿÿ8·¹Ò’Ó.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¤ª™ùÿÿÿÿ8ä§È”Ó.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8¬¾Ô“Ó.
 O
 java:S1481"2Remove this unused "instaScrapper" local variable.(¨¢èÆ8ü€ƒ“Ó.
-i
-java:S20957"GUse try-with-resources or close this "WebClient" in a "finally" clause.(Ü»ñìýÿÿÿÿ8¹©úÓ.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(·ì¼8«™¸ÜÓ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Ø€Éÿÿÿÿÿ8´ÔÇ”Ó.
+X	java:S125O"<This block of commented-out lines of code should be removed.(¬±·‰8¼Þó“Ó.
+^
+java:S1854"ARemove this useless assignment to local variable "instaScrapper".(¨¢èÆ8ü€ƒ“Ó.
+0
+java:S1220""Move this file to a named package.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ç€ÀÑ8ü€ƒ“Ó.
+]	java:S125K"<This block of commented-out lines of code should be removed.(Ÿó…âøÿÿÿÿ8Ã¨÷“Ó.
+]	java:S125H"<This block of commented-out lines of code should be removed.(“´ª¤þÿÿÿÿ8±­’”Ó.
