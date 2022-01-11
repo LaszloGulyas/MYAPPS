@@ -1,9 +1,0 @@
-
-Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¿ŞÒ¢øÿÿÿÿ8Ï®ÂÓ.
-Z	java:S106F"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Ï®ÂÓ.
-Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Ï®ÂÓ.
-0
-java:S1220""Move this file to a named package.
-s
-java:S1450"VRemove the "scanner" field and declare it as a local variable in the relevant methods.(Ù‘Ğ8¥ÈœÓ.
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(äµÿ‘øÿÿÿÿ8Ï®ÂÓ.
