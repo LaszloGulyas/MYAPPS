@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/scraper-app/pom.xml" />
         <option value="$PROJECT_DIR$/webserv/pom.xml" />
+        <option value="$PROJECT_DIR$/lostark-server-status-checker/pom.xml" />
       </list>
     </option>
   </component>
