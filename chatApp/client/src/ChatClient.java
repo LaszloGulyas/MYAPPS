@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.*;
 import java.util.Scanner;
 
-public class Main {
+public class ChatClient {
 
     private static final String hostname = "localhost";
     private static final int port = 12321;
